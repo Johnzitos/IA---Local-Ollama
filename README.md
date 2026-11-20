@@ -1,5 +1,11 @@
 # IA Local com Ollama no Debian
 
+
+https://github.com/user-attachments/assets/3330997a-7a69-47e1-a78d-7c44f1febd78
+
+
+
+
 [![CI](../../actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
 [![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg)](LICENSE)
 ![Shell: Bash](https://img.shields.io/badge/shell-bash-4EAA25.svg)
